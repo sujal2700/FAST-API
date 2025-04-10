@@ -24,3 +24,17 @@ This is a simple CRUD (Create, Read, Update, Delete) REST API built with **FastA
 
 ---
 
+![image](https://github.com/user-attachments/assets/3df62ba7-0bf8-4c1b-bb88-25e334d88ef5)
+Adding bulk employees
+
+![image](https://github.com/user-attachments/assets/92a1e8c3-0955-42d7-ac9c-f877ee3c2487)
+Finding employees using ID
+
+![image](https://github.com/user-attachments/assets/bb7d0bf6-5c28-4565-868e-9010acddb942)
+Deleting Employee
+
+
+![image](https://github.com/user-attachments/assets/d661577f-9c35-4bf1-8327-99ee135993e5)
+Updating Employees
+
+
